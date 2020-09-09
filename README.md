@@ -2,4 +2,4 @@
 
 Unity2017.1.0
 
-steamVR1.2.3
+SteamVR1.2.3
